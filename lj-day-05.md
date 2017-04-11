@@ -1,0 +1,5 @@
+#Learning Journal Day 5  
+
+This day was a review day, which was incredibly welcome! I was struggling a bit with referencing arrays and getting a for loop inside a for loop to work.  Most notably it was getting the loops to end once the conditions were no longer being met. The instructor explained that with loops it really helps to just take it slow and step by step, to think line by line what the loop is doing.  It was a little slow at first and painful, but I got through it and something just clicked.  
+
+I also found myself having difficulty wrapping code inside of a function, and getting that function to properly be called and return something. I honestly don't know what it was but all of a sudden I was looking at a function and it just clicked.  I started mashing out code and got the function to perform and return what I wanted it to.  I am starting to feel more and more comfortable with what I have learned so far.  Like Duncan says, it's just a matter of continually writing code and not giving up.  Just keep at it and have fun, because life is supposed to be fun. Honestly I am having fun!
