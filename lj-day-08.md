@@ -1,0 +1,8 @@
+#Learning Journal Day 8  
+
+Today I ended up missing class due to a minor motorcycle accident.  I'm fine since it wasn't that fast, but the bike (of course) suffered some inconvenient damages.  Anyways, what I mostly learned/achieved from today was becoming much more comfortable with working with the DOM. 
+Before this class I understood the concept of learning the basics before you start jumping into using a breadth of tools, libraries or otherwise pre-made utilities (in this case code) to help accomplish your goals.  
+
+However I am finding that I may like doing the vanilla , such as sticking with the DOM and writing object literals as opposed to constructors.  It helps me quickly understand what is going on and while it may create room for more errors I just feel like I have more readability and understanding of what is actually in the object and how the HTML and JavaScript are interacting to populate data on the page in terms of "shredding the dom" as the instructor would put it.  
+
+I also watched a quick TED talk about Grit: Passion and perseverance.  Something that has been coming up more and more in my life.  I believe the passion part is the most important concerning any and all endeavors.  One really has to ask themselves what their desire and passion is.  What will bring them fulfillment and joy.  Having that passion is what enables a person to really dig deep and focus.  To know that regardless of what it takes for them to achieve their goal they will accomplish it.  Because in their minds eye they already know what's going to happen.  Most importantly, having that passion makes the whole entire journey, all of its ups and downs extremely worth it.  Often the journey becomes the most enjoyable part.
